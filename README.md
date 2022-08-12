@@ -6,6 +6,6 @@
 
 Small Angular App using GIPHY API
 
-<a href="https://angular-gifs-appli.netlify.app/">Demo</a>
+<a href="https://angular-gifs-application.netlify.app/">Demo</a>
 
 </div>
